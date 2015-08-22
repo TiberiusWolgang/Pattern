@@ -2,6 +2,7 @@
 //Increasing/Decreasing spaces pattern
 
 import java.util.Scanner;
+
 public class bhiPeetaHai {
 	
 	public static void main(String[] args){
